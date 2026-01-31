@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Akhil Agarwal</h1>
+<h1 align="center">Hi 👋, I'm Vikash Kumawat</h1>
 <h3 align="center">I'm a <strong>passionate learner</strong> currently diving deep into <strong>Web Development</strong> and sharpening my problem-solving skills through <strong>Competitive Programming</strong> in <strong>C++</strong>.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left" style="display: flex; align-items: center;">
   <p>
-    <a href="https://linkedin.com/in/aggarwalakhil13032005" target="_blank">
+    <a href="https://www.linkedin.com/in/vikash-kumawat-186a01290/" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
-    <a href="https://www.hackerrank.com/profile/aggarwal_akhil13" target="_blank">
+    <!-- <a href="https://www.hackerrank.com/profile/aggarwal_akhil13" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-    </a>
+    </a> -->
   </p>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="GIF" height="150" width="150" style="margin-left: 10px;" />
 </div>
