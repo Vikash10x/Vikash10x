@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vikash Kumawat</h1>
+
+# Hey 👋, I'm [Akash Kumawat!](https://github.com/Akash1000x/)
+
+<!-- <h1 align="center">Hi 👋, I'm Vikash Kumawat</h1> -->
 <h3 align="center">I'm a <strong>passionate learner</strong> currently diving deep into <strong>Web Development</strong> and sharpening my problem-solving skills through <strong>Competitive Programming</strong> in <strong>C++</strong>.</h3>
 
 <h3 align="left">Connect with me:</h3>
