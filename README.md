@@ -1,7 +1,10 @@
 
 # Hey 👋, I'm [Vikash Kumawat!](https://github.com/Vikash10x)
 
-<h3 align="center">I'm a <strong>passionate learner</strong> currently diving deep into <strong>Web Development</strong> and sharpening my problem-solving skills through <strong>Competitive Programming</strong> in <strong>C++</strong>.</h3>
+<h3 align="center">
+A <strong>Computer Science student & passionate learner</strong><br/>
+Focused on <strong>Web Development</strong>, <strong>C++ & DSA</strong>, and building practical solutions through <strong>Hackathons</strong>.
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left" style="display: flex; align-items: center;">
