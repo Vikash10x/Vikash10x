@@ -98,6 +98,16 @@
   <a href="mailto:vvikash0012@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/your_username" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <!-- Twitter (X) -->
+  <a href="https://twitter.com/your_username" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </p>
 
 ---
