@@ -88,11 +88,11 @@
 
 <p align="center">
 
-<a href="https://yourportfolio.com" target="_blank">
+<a href="https://vikashdev.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/MY%20PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/your_username" target="_blank">
+<a href="https://x.com/vikashkumawattt" target="_blank">
   <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
@@ -100,7 +100,7 @@
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://instagram.com/your_username" target="_blank">
+<a href="https://instagram.com/_vikash8619" target="_blank">
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
