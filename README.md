@@ -13,6 +13,34 @@
 
 ---
 
+## 🌐 CONNECT WITH ME
+
+<p align="center">
+
+<a href="https://vikashdev.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/MY%20PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://x.com/vikashkumawattt" target="_blank">
+  <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/vikash-kumawat-186a01290/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/_vikash8619" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:vvikash0012@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
 ## 🚀 About Me
 
 - 🎓 Computer Science student passionate about real-world web applications  
@@ -80,34 +108,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikash10x&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 CONNECT WITH ME
-
-<p align="center">
-
-<a href="https://vikashdev.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/MY%20PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://x.com/vikashkumawattt" target="_blank">
-  <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/vikash-kumawat-186a01290/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/_vikash8619" target="_blank">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="mailto:vvikash0012@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 </p>
 
 ---
