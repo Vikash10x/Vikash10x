@@ -1,119 +1,114 @@
+<h1 align="center">Hi 👋, I'm Vikash Kumawat</h1>
+<h3 align="center">Frontend Developer | React.js | AI Integration | Problem Solver</h3>
 
-# Hey 👋, I'm [Vikash Kumawat!](https://github.com/Vikash10x)
-
-<h3 align="center">
-A <strong>Computer Science student & passionate learner</strong><br/>
-Focused on <strong>Web Development</strong>, <strong>C++ & DSA</strong>, and building practical solutions through <strong>Hackathons</strong>.
-</h3>
-
-<h3 align="left">Connect with me:</h3>
-<div align="left" style="display: flex; align-items: center;">
-  <p>
-    <a href="https://www.linkedin.com/in/vikash-kumawat-186a01290/" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-  <a href="https://leetcode.com/u/vikash_80/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
-    alt="LeetCode" height="30" width="40" />
-  </a>
-
-  </p>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="GIF" height="150" width="150" style="margin-left: 10px;" />
-</div>
-
-<br/>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=codeaxworld&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+%7C+Tailwind+CSS;AI+Chatbot+Integration;Building+Modern+Web+Apps" />
 </p>
 
-## 🚀 What I'm Currently Working On
-- 🌐 Learning **Full Stack Web Development** (HTML, CSS, JavaScript, React)
-- 💻 Strengthening **Data Structures & Algorithms** using **C++**
-- ⚔️ Participating in **Hackathons** to build real-world, problem-solving projects
-- 🧠 Improving **logic building & clean coding practices**
-- 📘 Exploring automation, scraping concepts & real-life tech use cases
+<p align="center">
+  <a href="https://github.com/Vikash10x">
+    <img src="https://komarev.com/ghpvc/?username=Vikash10x&label=Profile%20Views&color=blue&style=flat" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science student passionate about real-world web applications  
+- 💻 Focused on **Frontend Development** using React.js and Tailwind CSS  
+- 🤖 Exploring **AI Integration** using Gemini API and chatbots  
+- 🧠 Improving **DSA and problem-solving** using C++  
+- ⚔️ Active in hackathons and practical project building  
 - 📫 Reach me at: **vvikash0012@gmail.com**
 
-## 💡 Hackathons & Practical Work
-I actively participate in **hackathons and technical assignments**, where I:
-- Build problem-oriented solutions under time pressure
-- Work with event-based data & automation ideas
-- Learn teamwork, planning, and structured implementation
-- Convert ideas into working prototypes (partial & full)
+---
 
-## 🛠️ Languages and Tools:
-<p align="left">
+## 🛒 Featured Project
 
-  <!-- Programming Languages -->
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.php.net/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-</a>
+### Grocify – AI Powered Grocery Dashboard
 
+> A modern grocery dashboard UI with AI chatbot integration, smooth animations, and responsive design.
 
-  <!-- Frontend -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-</a>
+**Tech Stack:** React.js, Tailwind CSS, GSAP, Gemini API
 
+### Key Features
+- Responsive grocery landing dashboard  
+- AI chatbot integration using Gemini API  
+- Smooth animations using GSAP  
+- Clean navbar, hero section, search bar and CTA  
+- Component-based React structure  
 
-  <!-- Backend -->
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
-  </a>
+🔗 **Live Demo:** Add your live link here  
+🔗 **GitHub Repo:** Add your repo link here  
 
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
-  </a>
+---
 
-  <!-- Cloud & Tools -->
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40"/>
-  </a>
+## 🛠️ Tech Stack
 
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php" />
 </p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,gcp" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codeaxworld&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=codeaxworld&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeaxworld" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikash10x&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikash10x&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikash10x&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/vikash-kumawat-186a01290/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://leetcode.com/u/vikash_80/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+
+  <a href="mailto:vvikash0012@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Building modern UI projects with React.js  
+- Learning advanced JavaScript and APIs  
+- Practicing DSA with C++  
+- Exploring AI-powered web applications  
+
+---
+
+<h3 align="center">⭐ Learning by Building | Growing Every Day 🚀</h3>
