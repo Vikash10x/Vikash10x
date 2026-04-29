@@ -67,7 +67,7 @@
 - Clean navbar, hero section, search bar and CTA  
 - Component-based React structure  
 
-🔗 **Live Demo:** https://grocify-gules.vercel.app/
+🔗 **Live Demo:** https://grocify-gules.vercel.app/ </br>
 🔗 **GitHub Repo:** https://github.com/Vikash10x/-Grocify
 
 ---
