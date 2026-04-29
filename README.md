@@ -84,30 +84,30 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 CONNECT WITH ME
 
-<p>
-  <a href="https://www.linkedin.com/in/vikash-kumawat-186a01290/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+<p align="center">
 
-  <a href="https://leetcode.com/u/vikash_80/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode" />
-  </a>
+<a href="https://yourportfolio.com" target="_blank">
+  <img src="https://img.shields.io/badge/MY%20PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-  <a href="mailto:vvikash0012@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
+<a href="https://twitter.com/your_username" target="_blank">
+  <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
-  <!-- Instagram -->
-  <a href="https://instagram.com/your_username" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/vikash-kumawat-186a01290/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-  <!-- Twitter (X) -->
-  <a href="https://twitter.com/your_username" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+<a href="https://instagram.com/your_username" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:vvikash0012@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
 
 ---
