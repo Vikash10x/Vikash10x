@@ -12,10 +12,10 @@ Focused on <strong>Web Development</strong>, <strong>C++ & DSA</strong>, and bui
     <a href="https://www.linkedin.com/in/vikash-kumawat-186a01290/" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
-<a href="https://leetcode.com/u/vikash_80/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
-       alt="LeetCode" height="30" width="40" />
-</a>
+    <a href="https://leetcode.com/u/vikash_80/" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
+    alt="LeetCode" height="30" width="40" />
+    </a>
 
   </p>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="GIF" height="150" width="150" style="margin-left: 10px;" />
