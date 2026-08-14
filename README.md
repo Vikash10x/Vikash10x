@@ -50,25 +50,6 @@
 - ⚔️ Active in hackathons and practical project building  
 - 📫 Reach me at: **vvikash0012@gmail.com**
 
----
-
-## 🛒 Featured Project
-
-### Grocify – AI Powered Grocery Dashboard
-
-> A modern grocery dashboard UI with AI chatbot integration, smooth animations, and responsive design.
-
-**Tech Stack:** React.js, Tailwind CSS, GSAP, Gemini API
-
-### Key Features
-- Responsive grocery landing dashboard  
-- AI chatbot integration using Gemini API  
-- Smooth animations using GSAP  
-- Clean navbar, hero section, search bar and CTA  
-- Component-based React structure  
-
-🔗 **Live Demo:** https://grocify-gules.vercel.app/ </br>
-🔗 **GitHub Repo:** https://github.com/Vikash10x/-Grocify
 
 ---
 
