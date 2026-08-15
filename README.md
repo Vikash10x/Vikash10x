@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vikash Kumawat</h1>
-<h3 align="center">Frontend Developer | React.js | AI Integration | Problem Solver</h3>
+
+<h3 align="center">Frontend Developer | React.js | MERN Stack | AI Integration</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+%7C+Tailwind+CSS;AI+Chatbot+Integration;Building+Modern+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React.js+%7C+Tailwind+CSS;MERN+Stack+Developer;AI-Powered+Web+Applications;Building+Modern+Web+Experiences" />
 </p>
 
 <p align="center">
@@ -13,20 +14,20 @@
 
 ---
 
-## 🌐 CONNECT WITH ME
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://vikashdev.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/MY%20PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://x.com/vikashkumawattt" target="_blank">
-  <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/vikash-kumawat-186a01290/" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://x.com/vikashkumawattt" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <a href="https://instagram.com/_vikash8619" target="_blank">
@@ -34,72 +35,159 @@
 </a>
 
 <a href="mailto:vvikash0012@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Computer Science student passionate about real-world web applications  
-- 💻 Focused on **Frontend Development** using React.js and Tailwind CSS  
-- 🤖 Exploring **AI Integration** using Gemini API and chatbots  
-- 🧠 Improving **DSA and problem-solving** using C++  
-- ⚔️ Active in hackathons and practical project building  
-- 📫 Reach me at: **vvikash0012@gmail.com**
-
+* 🎓 Computer Science student passionate about building real-world web applications.
+* 💻 Focused on **Frontend Development** with React.js, JavaScript and Tailwind CSS.
+* ⚙️ Experienced with **MERN Stack** development and REST APIs.
+* 🤖 Exploring **AI-powered applications** using Gemini API and chatbot integration.
+* 🛍️ Experienced in building and customizing **Shopify e-commerce websites**.
+* 🧠 Continuously improving **Data Structures & Algorithms with C++**.
+* ⚔️ Passionate about hackathons, problem-solving and learning through projects.
+* 📫 Reach me at **[vvikash0012@gmail.com](mailto:vvikash0012@gmail.com)**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,php" />
 </p>
 
-### Frontend
+### 🎨 Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
 </p>
 
-### Backend & Database
+### ⚙️ Backend & Database
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### Tools & Platforms
+### 🤖 AI & APIs
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,gcp" />
+  <img src="https://skillicons.dev/icons?i=postman" />
 </p>
+
+**AI Integration:** Gemini API • AI Chatbots • API Integration
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,gcp" />
+</p>
+
+**Other:** Shopify • Liquid • Framer • REST APIs • JWT
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 Grocify — AI-Powered Grocery Platform
+
+An interactive grocery platform with modern UI and AI-powered customer assistance.
+
+**Tech Stack:** React.js • Tailwind CSS • GSAP • Gemini API
+
+* 🤖 Integrated AI chatbot for customer queries.
+* 🎨 Built responsive and modern shopping interfaces.
+* ⚡ Added smooth animations and interactive UI components.
+
+---
+
+### 🏨 HotelEase — Luxury Hotel Booking Platform
+
+A full-stack hotel booking platform designed for a modern and seamless booking experience.
+
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB • JWT
+
+* 🏨 Developed hotel browsing and booking functionality.
+* 🔐 Implemented authentication and authorization.
+* 🌐 Built REST APIs with Node.js and Express.js.
+
+---
+
+### 🛍️ Shopify E-commerce Projects
+
+Developed and customized modern e-commerce stores using Shopify and Framer.
+
+**Tech Stack:** Shopify • Liquid • JavaScript • Framer
+
+* 🎨 Customized storefronts according to brand requirements.
+* 🛒 Improved product and shopping experiences.
+* 📱 Built responsive layouts for desktop and mobile.
+
+---
+
+## 🏆 Achievements
+
+* 🥇 **National Level Winner** — ENIGMA Inter College Hackathon
+* 🏅 **Top 10** — Hackathon at AIT, Pune
+* 🎯 **96.44 Percentile** — Naukri Campus Young Turks
+* 🏆 **Rank 115** — Unstop Challenge
+
+---
+
+## 💼 Experience
+
+### Full Stack Developer Intern — MIKEY GLOBAL
+
+Worked on real-world web development projects involving modern frontend technologies, full-stack development and e-commerce solutions.
+
+**Key Areas:**
+
+* React.js & modern frontend development
+* Shopify e-commerce customization
+* REST API integration
+* Responsive UI development
+* Real-world client projects
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikash10x&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikash10x&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikash10x&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikash10x&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikash10x&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikash10x&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-- Building modern UI projects with React.js  
-- Learning advanced JavaScript and APIs  
-- Practicing DSA with C++  
-- Exploring AI-powered web applications  
+* ⚛️ Advanced React.js & JavaScript
+* ⚙️ MERN Stack Development
+* 🤖 AI-powered Web Applications
+* 🧠 Data Structures & Algorithms
+* 🚀 Building production-ready projects
 
 ---
 
-<h3 align="center">⭐ Learning by Building | Growing Every Day 🚀</h3>
+## 📈 My Development Philosophy
+
+> **Learn → Build → Break → Fix → Improve → Repeat.**
+
+I believe the best way to learn technology is by building real-world projects, solving problems and continuously improving.
+
+---
+
+<h3 align="center">⭐ Learning by Building | Creating with Code | Growing Every Day 🚀</h3>
