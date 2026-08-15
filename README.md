@@ -5,6 +5,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+%7C+Tailwind+CSS;MERN+Stack+Developer;AI+Integration;Building+Modern+Web+Apps" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vikash10x&label=Visitors&color=blue&style=flat" />
+</p>
 
 <p align="center">
   <a href="https://vikashdev.vercel.app/">
