@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
-<a href="https://instagram.com/_vikash8619" target="_blank">
+<a href="https://instagram.com/vikash_kumawatt" target="_blank">
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
