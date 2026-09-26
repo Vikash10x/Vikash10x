@@ -67,28 +67,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛒 Grocify
-
-**AI-powered grocery platform** with chatbot integration.
-
-`React.js` `Tailwind CSS` `GSAP` `Gemini API`
-
-### 🏨 HotelEase
-
-**MERN-based hotel booking platform** with authentication and REST APIs.
-
-`React.js` `Node.js` `Express.js` `MongoDB` `JWT`
-
-### 🛍️ Shopify E-commerce
-
-Modern **Shopify & Framer e-commerce websites** with custom storefronts.
-
-`Shopify` `Liquid` `JavaScript` `Framer`
-
----
-
 ## 🏆 Achievements
 
 * 🥇 **National Level Winner** — ENIGMA Inter College Hackathon
